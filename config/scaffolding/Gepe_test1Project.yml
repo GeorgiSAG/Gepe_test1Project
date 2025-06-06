@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Gepe_test1Project
+  gitServerName: gepe_gh_test
+  gitUrl: https://github.com/GeorgiSAG
+  gitUsername: GeorgiSAG
+  gitBranch: main
